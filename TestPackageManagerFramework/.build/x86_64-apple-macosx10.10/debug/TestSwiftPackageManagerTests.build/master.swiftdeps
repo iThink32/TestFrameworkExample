@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cdb0a252f865f22dd3dd76574f914625"
+build_time: [1542026300, 899751000]
+inputs:
+  "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/Tests/TestSwiftPackageManagerTests/TestSwiftPackageManagerTests.swift": [1542026293, 0]
+  "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/Tests/TestSwiftPackageManagerTests/XCTestManifests.swift": [1542026293, 0]

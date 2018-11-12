@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/master.swiftdeps"
+  },
+  "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/Tests/TestSwiftPackageManagerTests/TestSwiftPackageManagerTests.swift": {
+    "dependencies": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/TestSwiftPackageManagerTests.d",
+    "object": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/TestSwiftPackageManagerTests.swift.o",
+    "swiftmodule": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/TestSwiftPackageManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/TestSwiftPackageManagerTests.swiftdeps"
+  },
+  "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/Tests/TestSwiftPackageManagerTests/XCTestManifests.swift": {
+    "dependencies": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/XCTestManifests.d",
+    "object": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/XCTestManifests.swift.o",
+    "swiftmodule": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/XCTestManifests~partial.swiftmodule",
+    "swift-dependencies": "/Users/n.ashashank/Desktop/Shashank/TestProjects/TestSwiftPackageManager/.build/x86_64-apple-macosx10.10/debug/TestSwiftPackageManagerTests.build/XCTestManifests.swiftdeps"
+  }
+}
